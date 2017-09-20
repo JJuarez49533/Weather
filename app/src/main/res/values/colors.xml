@@ -1,0 +1,7 @@
+
+<resources>
+    <color name="light_text">#bcbcbc</color>
+    <color name="days_background">#ffffff</color>
+    <color name="hot">#df9c2f</color>
+    <color name="cold">#4177c8</color>
+</resources>
